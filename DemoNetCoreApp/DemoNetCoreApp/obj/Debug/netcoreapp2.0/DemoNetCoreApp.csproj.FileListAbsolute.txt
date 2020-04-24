@@ -1,0 +1,11 @@
+D:\WorkSpace\DemoNetCoreApp\DemoNetCoreApp\bin\Debug\netcoreapp2.0\DemoNetCoreApp.deps.json
+D:\WorkSpace\DemoNetCoreApp\DemoNetCoreApp\bin\Debug\netcoreapp2.0\DemoNetCoreApp.runtimeconfig.json
+D:\WorkSpace\DemoNetCoreApp\DemoNetCoreApp\bin\Debug\netcoreapp2.0\DemoNetCoreApp.runtimeconfig.dev.json
+D:\WorkSpace\DemoNetCoreApp\DemoNetCoreApp\bin\Debug\netcoreapp2.0\DemoNetCoreApp.dll
+D:\WorkSpace\DemoNetCoreApp\DemoNetCoreApp\bin\Debug\netcoreapp2.0\DemoNetCoreApp.pdb
+D:\WorkSpace\DemoNetCoreApp\DemoNetCoreApp\obj\Debug\netcoreapp2.0\DemoNetCoreApp.csprojAssemblyReference.cache
+D:\WorkSpace\DemoNetCoreApp\DemoNetCoreApp\obj\Debug\netcoreapp2.0\DemoNetCoreApp.csproj.CoreCompileInputs.cache
+D:\WorkSpace\DemoNetCoreApp\DemoNetCoreApp\obj\Debug\netcoreapp2.0\DemoNetCoreApp.AssemblyInfoInputs.cache
+D:\WorkSpace\DemoNetCoreApp\DemoNetCoreApp\obj\Debug\netcoreapp2.0\DemoNetCoreApp.AssemblyInfo.cs
+D:\WorkSpace\DemoNetCoreApp\DemoNetCoreApp\obj\Debug\netcoreapp2.0\DemoNetCoreApp.dll
+D:\WorkSpace\DemoNetCoreApp\DemoNetCoreApp\obj\Debug\netcoreapp2.0\DemoNetCoreApp.pdb
